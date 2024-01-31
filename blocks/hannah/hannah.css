@@ -1,3 +1,7 @@
 .hannah {
     color: red;
 }
+
+.hannah.embolden {
+    font-weight: 800;
+}
