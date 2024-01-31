@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Hannah's Test Edge Delivery Services
+Learning all about Edge Delivery Services!
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--edge--hannahscott16.hlx.page/
+- Live: https://main--edge--hannahscott16.hlx.live/
 
 ## Installation
 
